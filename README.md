@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9681438&assignment_repo_type=AssignmentRepo)
 # The Sweet Spot v2
 
 Let's improve upon our previous exercise by adding some images. Have a look at the new and improved page [here](https://digitalcareerinstitute.github.io/UIB-content-the-sweet-spot-v2/index.html)
